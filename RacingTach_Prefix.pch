@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'RacingTach' target in the 'RacingTach' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define BITS_PER_DATA		16					// 8 ou 16 ou 32
+#define kInputDataType		SInt16
+#define kOutputDataType		float
+
+
