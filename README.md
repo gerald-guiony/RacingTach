@@ -72,7 +72,7 @@ You can find an electronic circuit diagram for a cigarette lighter RPM pickup he
 
 ![cigarettelighterrpm](https://github.com/gerald-guiony/RacingTach/blob/main/Readme/cigarettelighterrpm.JPG)
 
-You will need a 4 Conductor 3.5mm Plug. It would be useful to build a splitter Adapter Mic/Headphone Converter Cable like this.
+You will need a 4 Conductor 3.5mm Plug. It would be useful to build a splitter Adapter Mic/Headphone Converter Cable.
 
 ## Video demonstrations
 
